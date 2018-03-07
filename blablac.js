@@ -1,0 +1,3 @@
+function HI(){
+	document.getDocumentsomethingseomthing;
+}
